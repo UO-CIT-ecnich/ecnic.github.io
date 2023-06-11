@@ -16,6 +16,6 @@
 - [Project 2](link-to-project-2-repo): Practice refactoring and concatenating strings, writing and executing non-web server Node.js JavaScript code.
 - [Project 3](link-to-project-3-repo): Practice interpreting functional descriptions and specifications, code module creation and utilization, Fastify with Get routes and query parameters, loading a web page.
 - [Project 4](link-to-project-4-repo): Created a REST API that will respond with questions and answers, practiced Node.js REST API servers and working with static data.
-- [Project 5](link-to-project-5-repo): Created a monster game using classes, practiced modifyting classes and using Array map() and forEach() methods.
+- [Project 5](https://github.com/UO-CIT-ecnich/cit-p5.git): Created a monster game using classes, practiced modifyting classes and using Array map() and forEach() methods.
 - [Project 6](https://github.com/UO-CIT-ecnich/cit-p6.git): Pracice creating classes and modifying them using super and class inheritance.
 - [Project 7](link-to-project-7-repo): Practice creating GitHub page and repositories for all the Labs and Projects I did this term.
