@@ -1,7 +1,7 @@
 # CIT-Minor-EN
 ![Pier Picture](git_page_picture.jpg)
 # List of Labs
-- [Lab 1](link-to-lab-1-repo): Setting up personal computer and creating first Node.js server-side JavaScript file.
+- [Lab 1](https://github.com/UO-CIT-ecnich/cit281-lab1.git): Setting up personal computer and creating first Node.js server-side JavaScript file.
 - [Lab 2](link-to-lab-2-repo): Exploring terminal more and practice using CLI commands, git repository commands and commiting and ignoring files.
 - [Lab 3](link-to-lab-3-repo): Practice refactoring code, converting normal functions into arrow functions, and using Node.js compatible code.
 - [Lab 4](link-to-lab-4-repo): Create a Fastify Node.js web server, adding Fastify to a project, practice fixing MIME errors and using multiple server routes.
