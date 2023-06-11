@@ -13,7 +13,7 @@
 
 # List of Projects 
 - [Project 1](link-to-project-1-repo): Practice Navigating CLI and using CLI commands.
-- [Project 2](link-to-project-2-repo): Practice refactoring and concatenating strings, writing and executing non-web server Node.js JavaScript code.
+- [Project 2](https://github.com/UO-CIT-ecnich/cit-p2.git): Practice refactoring and concatenating strings, writing and executing non-web server Node.js JavaScript code.
 - [Project 3](https://github.com/UO-CIT-ecnich/cit-p3.git): Practice interpreting functional descriptions and specifications, code module creation and utilization, Fastify with Get routes and query parameters, loading a web page.
 - [Project 4](https://github.com/UO-CIT-ecnich/cit-p4.git): Created a REST API that will respond with questions and answers, practiced Node.js REST API servers and working with static data.
 - [Project 5](https://github.com/UO-CIT-ecnich/cit-p5.git): Created a monster game using classes, practiced modifyting classes and using Array map() and forEach() methods.
