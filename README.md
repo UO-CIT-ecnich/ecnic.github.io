@@ -8,7 +8,7 @@
 - [Lab 5](https://github.com/UO-CIT-ecnich/cit281-lab5.git): Downloading Postman, creating a CIT 281 collection and folders. Also creating a fastify server with GET and responding to JSON, using Postman to test the server GET routes.
 - [Lab 6](https://github.com/UO-CIT-ecnich/cit281-lab6.git): Joined GitHub and worked through the introduction course, classes overview, creating different classes and testing them.
 - [Lab 7](https://github.com/UO-CIT-ecnich/cit281-lab7.git): Creating GitHub organization for the CIT Minor, creating repositories and cloning to local system.
-- [Lab 8](lhttps://github.com/UO-CIT-ecnich/cit281-lab8.git): More practice with Get routes to retrieve photos from a site.
+- [Lab 8](https://github.com/UO-CIT-ecnich/cit281-lab8.git): More practice with Get routes to retrieve photos from a site.
 - [Lab 9](https://github.com/UO-CIT-ecnich/cit281-lab9.git): GitHub course on creating workflows and working with them.
 
 # List of Projects 
